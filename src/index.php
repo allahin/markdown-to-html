@@ -16,7 +16,7 @@ $template = <<<HTML
     a {
         text-decoration: none;
     }
-</style>
+    </style>
 </head>
 <body>
 <div class="container mt-3">
